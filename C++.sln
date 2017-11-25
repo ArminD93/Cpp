@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mala_litera", "mala_litera\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wczytanie_znaku", "wczytanie_znaku\wczytanie_znaku.vcxproj", "{EF76EA63-4F88-4518-98DC-D83E44FEC684}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dodawanie_liczb", "dodawanie_liczb\dodawanie_liczb.vcxproj", "{1BC2E37D-1816-4267-82C6-D1156F4565AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{EF76EA63-4F88-4518-98DC-D83E44FEC684}.Release|x64.Build.0 = Release|x64
 		{EF76EA63-4F88-4518-98DC-D83E44FEC684}.Release|x86.ActiveCfg = Release|Win32
 		{EF76EA63-4F88-4518-98DC-D83E44FEC684}.Release|x86.Build.0 = Release|Win32
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Debug|x64.ActiveCfg = Debug|x64
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Debug|x64.Build.0 = Debug|x64
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Debug|x86.Build.0 = Debug|Win32
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Release|x64.ActiveCfg = Release|x64
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Release|x64.Build.0 = Release|x64
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Release|x86.ActiveCfg = Release|Win32
+		{1BC2E37D-1816-4267-82C6-D1156F4565AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
