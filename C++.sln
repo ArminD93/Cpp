@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pole_prost_int", "pole_pros
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pole_prost_calk", "pole_prost_calk\pole_prost_calk.vcxproj", "{D4A2CBD6-09B2-41C0-B112-C92C3DB0CF45}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adres_zmiennej", "adres_zmiennej\adres_zmiennej.vcxproj", "{74233D51-1F55-481D-804B-C5C4A81247B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{D4A2CBD6-09B2-41C0-B112-C92C3DB0CF45}.Release|x64.Build.0 = Release|x64
 		{D4A2CBD6-09B2-41C0-B112-C92C3DB0CF45}.Release|x86.ActiveCfg = Release|Win32
 		{D4A2CBD6-09B2-41C0-B112-C92C3DB0CF45}.Release|x86.Build.0 = Release|Win32
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Debug|x64.ActiveCfg = Debug|x64
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Debug|x64.Build.0 = Debug|x64
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Debug|x86.Build.0 = Debug|Win32
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Release|x64.ActiveCfg = Release|x64
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Release|x64.Build.0 = Release|x64
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Release|x86.ActiveCfg = Release|Win32
+		{74233D51-1F55-481D-804B-C5C4A81247B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
