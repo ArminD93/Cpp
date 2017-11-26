@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kod_pin", "kod_pin\kod_pin.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bankomat", "bankomat\bankomat.vcxproj", "{F7793A69-15A9-4FCC-AFC0-DC2DA562666B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsunSpacje", "UsunSpacje\UsunSpacje.vcxproj", "{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{F7793A69-15A9-4FCC-AFC0-DC2DA562666B}.Release|x64.Build.0 = Release|x64
 		{F7793A69-15A9-4FCC-AFC0-DC2DA562666B}.Release|x86.ActiveCfg = Release|Win32
 		{F7793A69-15A9-4FCC-AFC0-DC2DA562666B}.Release|x86.Build.0 = Release|Win32
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Debug|x64.ActiveCfg = Debug|x64
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Debug|x64.Build.0 = Debug|x64
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Debug|x86.Build.0 = Debug|Win32
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Release|x64.ActiveCfg = Release|x64
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Release|x64.Build.0 = Release|x64
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Release|x86.ActiveCfg = Release|Win32
+		{85283EEA-B2CB-42B9-9CC6-6E3B0BDDF7A9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
